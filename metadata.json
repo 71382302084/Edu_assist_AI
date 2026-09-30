@@ -1,0 +1,7 @@
+{
+  "name": "EduAssist AI – Intelligent Campus Assistant",
+  "description": "An AI-powered campus assistant using Retrieval-Augmented Generation (RAG) to provide grounded answers from official college documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
